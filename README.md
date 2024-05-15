@@ -103,11 +103,12 @@ Following steps were adhered to build the dashboard.
 
 **Product name:** Withe the help of this slicer we can filter according to product.
 
+![Screenshot 2024-05-15 213303](https://github.com/diptiranjan1998/Raksha-pipes-assignment/assets/126856016/d4ea705c-09a7-4bfa-bbc6-0b6dd0bca8d8)
 
 We can refresh the dashboard to update the findings if the data gets updated. For example if we add the data of further months.
 
 
-Thank You
+## **Thank You**
 
 
 
