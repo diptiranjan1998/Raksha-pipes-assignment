@@ -10,14 +10,23 @@ This README file summarize the process of building data in python, creating data
 It is challenging to create lot of fake data from scratch in python. So I took the help of Faker library present in pandas to generate realistic datasets for Raksha Pipes. I created 8 fake datasets that describes the working of the company.
 
 **The datasets include the data on:**
+
 **Product information:** This dataset contains data on product id,product name and product types. To get the data on products, I took the help of beautifulsoup library to dig into company website and retract data on products.
+
 **customer information:** This dataset contains data on customer id, name, address, email, phone number and date of birth. By the help of Faker library I created the instances for the customer table.
+
 **order information:** This data set contains data on order id, customer id who ordered and order date. I took the help of random library to choose random customer ids.
+
 **order details:** This dataset contains data on details id, order id, product id, quantity and price per unit. The price is in USD format.
+
 **inventory information:** To know the stock, I created inventory table that contains inventory id, product name and availability. 
+
 **payments information:** To get data on payments the already done and pending payments, I created payments table that contains data on payments id and order details id. By connecting it to order information and order details data, we can find a summery of payments.
+
 **supplier information:** To keep track of suppliers the data stores supplier id, name, email, phone number, address and product they supply.
+
 **employee information:** Employees are essences of a company. So to keep track of employees I created the dataset to store data on employee id, name, email, phone number and salary provided.
+
 All of these tasks are performed in python by taking the help of google colab. After creating the datasets I saved them to .CSV file for further use. I created the data of 4 months.
 
 
