@@ -1,0 +1,101 @@
+employee_id,employee_name,employee_position,employee_address,employee_email,employee_phone_number,employee_salary
+0,Allison Hill,Data entry,819 Johnson Course-East William- AK 74064,allisonhill66@gmail.com,886.737.9402,20000
+1,Daniel Gallagher,Data scientist,55940 Herrera Lane Apt. 849-Barbaraland- AZ 87174,danielgallagher12@gmail.com,441.731.6475,50000
+2,Michael Miles,Junior manager,283 Steven Groves-Lake Mark- WI 07832,michaelmiles34@gmail.com,505.964.1395,45000
+3,Thomas Ellis,Junior manager,884 Hurst Locks-Jeffreyberg- NY 65187,thomasellis29@gmail.com,801-922-6916,45000
+4,Tricia Valencia,Quality control,845 Kelly Estate-Smithview- NY 23917,triciavalencia75@gmail.com,914.289.3252x88095,30000
+5,Jack Galloway,Business manager,39117 Tiffany Place-East Donna- OH 22144,jackgalloway70@gmail.com,989-363-8346x578,45000
+6,Austin Smith,Senior engineer,10310 Jones Freeway-Elizabethborough- ND 17843,austinsmith89@gmail.com,001-899-973-7631x1656,28000
+7,Amy Valdez,Data analyst,5133 Amanda Dam-Whitemouth- IA 10381,amyvaldez17@gmail.com,581.808.0132x677,40000
+8,Carmen Smith,Associate data scientist,6872 Kenneth Centers Apt. 500-Shawhaven- GA 07956,carmensmith47@gmail.com,312.819.1361x93990,40000
+9,Krystal Stewart,Data scientist,46247 Hickman Cliffs Apt. 799-North Amandahaven- KS 17862,krystalstewart12@gmail.com,(613)354-2784x980,50000
+10,Brandy Wilson,Junior manager,4935 Grace Walk-Williamview- MH 07159,brandywilson29@gmail.com,964-800-5242,45000
+11,Ashley Landry,MIS ececutive,059 Russell Canyon-Michaelton- MH 47399,ashleylandry54@gmail.com,431.458.6923,25000
+12,Allison Doyle,Data scientist,342 Patrick Camp Suite 337-Kevinbury- IN 03602,allisondoyle12@gmail.com,+1-636-454-1458x68501,50000
+13,Victoria Johnson,Business analyst,569 Paul Ports Apt. 406-New Saraside- TX 94798,victoriajohnson27@gmail.com,001-735-861-5951x4846,40000
+14,Kristen Lee,Business manager,299 Sullivan Village Apt. 443-Floydmouth- NH 58406,kristenlee67@gmail.com,638.572.1489x513,45000
+15,Brittany Williams,MIS ececutive,Unit 9176 Box 9367-DPO AA 32480,brittanywilliams58@gmail.com,(501)363-2870,25000
+16,Robert Contreras,Junior manager,Unit 9579 Box 8687-DPO AE 97973,robertcontreras29@gmail.com,674.734.8734x7143,45000
+17,Joshua Taylor,Data entry,316 Rivera Mountain-Brownchester- MS 77057,joshuataylor62@gmail.com,001-509-967-0546x688,20000
+18,Jeffrey Johnson,Production executive,272 Rebecca Ramp Apt. 162-Whiteview- MS 43407,jeffreyjohnson82@gmail.com,975.256.4641,25000
+19,Amy Crane,Data scientist,003 Mary Road-East David- TN 15494,amycrane10@gmail.com,001-437-645-2991,50000
+20,Alexander Collins,Production executive,3193 Heidi Hollow Apt. 905-Stanleyland- NY 85375,alexandercollins81@gmail.com,906-971-6572x62849,25000
+21,Nicholas Adams,Business manager,7379 Rogers Park-Hunterborough- MI 34363,nicholasadams72@gmail.com,949-948-0831x36783,45000
+22,Alan Phillips,Project head,9578 Coleman Summit-Michaelmouth- KY 40690,alanphillips40@gmail.com,631-335-1823x374,60000
+23,Elizabeth Ward,Business analyst,0084 Dana Terrace-Garciatown- OK 37769,elizabethward23@gmail.com,277.452.0471x1671,40000
+24,Justin Torres,Operator,Unit 1869 Box 9938-DPO AA 59550,justintorres95@gmail.com,649.364.9909x133,18000
+25,Christopher Jones,Project head,974 Jesse Squares Suite 713-Kristinshire- TN 26429,christopherjones39@gmail.com,(918)332-4210x24994,60000
+26,Eric Powell,Data analyst,1906 Munoz Burg Apt. 399-Port Emilyview- OK 05774,ericpowell18@gmail.com,001-727-787-4296x71756,40000
+27,Shannon Rivera,Data analyst,680 Miller Glen Suite 168-Lake Mollymouth- MT 07605,shannonrivera18@gmail.com,485.697.7034,40000
+28,Michael Martinez,Production executive,Unit 9324 Box 8086-DPO AE 29952,michaelmartinez85@gmail.com,971-927-4846,25000
+29,Juan Reyes,Data entry,PSC 8214- Box 6584-APO AE 37573,juanreyes63@gmail.com,001-849-997-2787x5588,20000
+30,Sheila Pollard,Production executive,60576 Mcneil Turnpike Apt. 702-Mollymouth- CT 69438,sheilapollard81@gmail.com,702.862.1745x961,25000
+31,Lori Clay,Quality control,134 Julie Mews-Port Cynthiaville- NV 22306,loriclay74@gmail.com,001-840-405-0455x623,30000
+32,Bob Pitts,MIS ececutive,9237 Stevens Shores-Port Stevenport- TX 72144,bobpitts57@gmail.com,(617)559-4647,25000
+33,Dr. Ashley James MD,Operator,64090 Wall Heights Apt. 953-New John- WV 94994,dr.ashleyjamesmd96@gmail.com,001-421-504-7095x21456,18000
+34,Joshua Mata,Associate data scientist,47451 Mccarty Divide Apt. 685-Port Ralphview- ND 16700,joshuamata43@gmail.com,754.596.5137x098,40000
+35,Madison Marshall,MIS ececutive,20047 Colton Plain Apt. 675-Matthewsberg- FM 54880,madisonmarshall59@gmail.com,+1-317-796-4053x7735,25000
+36,Vanessa Howard,Production executive,71390 Kristin Gardens-Port Anne- CA 73142,vanessahoward83@gmail.com,493.435.2904,25000
+37,Rebecca Rodriguez,Data entry,53950 Joseph Crossroad-Foxland- NJ 59257,rebeccarodriguez65@gmail.com,001-258-991-7839x08470,20000
+38,Jessica Rodriguez,Senior engineer,15921 Joshua Roads Suite 698-Shawnchester- CT 92484,jessicarodriguez86@gmail.com,883-867-3657,28000
+39,Emily Edwards,Data entry,711 Christopher Court-Lisaside- AR 77370,emilyedwards61@gmail.com,-7004,20000
+40,Jordan Moore,Business manager,8514 Lindsay Vista-New Sarahview- AK 24148,jordanmoore72@gmail.com,345-550-2296x120,45000
+41,Jesse Moore,Data scientist,910 Eric River Apt. 147-Tuckermouth- MT 36305,jessemoore14@gmail.com,681.256.1497,50000
+42,William Brown,Junior manager,44510 Burgess Extensions-South Amanda- IN 66071,williambrown30@gmail.com,-7681,45000
+43,Michelle Butler,Project head,2975 Samuel Coves-South Brianna- NC 10809,michellebutler35@gmail.com,(745)435-2181x8835,60000
+44,Charles Gonzalez,Data analyst,77997 Lin Road-Edwardland- NJ 58462,charlesgonzalez17@gmail.com,+1-744-690-5814x7700,40000
+45,Sean Wyatt,Junior manager,9807 Marc Mountains Apt. 071-Toniland- NY 85190,seanwyatt30@gmail.com,(703)777-8892,45000
+46,Jasmine Schroeder,Data analyst,515 Angela Lights-Johnathanberg- MA 11183,jasmineschroeder18@gmail.com,001-825-746-2914,40000
+47,Meagan Calderon,Junior manager,685 Michael Falls-West Stacey- NM 25667,meagancalderon34@gmail.com,222.714.1888,45000
+48,Lisa Harper,Data entry,927 Robert Springs-South Cheryl- WV 98613,lisaharper66@gmail.com,838.834.7359x774,20000
+49,Ruth Solis,Associate data scientist,75818 Justin Track Apt. 478-Port Samuel- PW 29603,ruthsolis42@gmail.com,550.260.6853x615,40000
+50,Brett Espinoza,Associate data scientist,04727 Gilbert Common-West Jasonberg- OH 95821,brettespinoza42@gmail.com,+1-986-314-3410x369,40000
+51,Taylor Carlson,Business analyst,246 Christina Garden-Lopezland- NC 47766,taylorcarlson28@gmail.com,288-888-8067,40000
+52,Mrs. Alexis Kramer,Junior manager,520 Payne Via-Port Kimberly- NH 91647,mrs.alexiskramer33@gmail.com,822.917.0430x3054,45000
+53,Paul Lee,Operator,541 Kim Locks-Klinefurt- MA 24987,paullee93@gmail.com,775.384.1616x9284,18000
+54,Matthew Parker,Business manager,75705 Hill Turnpike Apt. 165-North Douglas- PA 89379,matthewparker67@gmail.com,902.713.5569x092,45000
+55,Phillip Berry,Data entry,4310 Victor Loaf Apt. 447-New Justin- PW 64883,phillipberry64@gmail.com,712.317.2715,20000
+56,Donna Evans,Business analyst,8313 Joel Park-West Angelastad- NH 72806,donnaevans25@gmail.com,(891)314-6786,40000
+57,Evan Jones,Quality control,89226 Marie Path Apt. 422-Sarahbury- MI 68513,evanjones74@gmail.com,414-438-4249x8182,30000
+58,Michelle Jacobs,Business analyst,10943 Montgomery Burgs-Smallside- LA 84637,michellejacobs24@gmail.com,573-764-7102x7677,40000
+59,Emily Higgins,Associate data scientist,2588 Luis Mountain Apt. 473-North Brent- MS 81159,emilyhiggins43@gmail.com,(232)359-5327x87747,40000
+60,Kathy Levy,Operator,04797 Herrera Vista Apt. 624-Kathrynstad- AZ 53006,kathylevy98@gmail.com,9986358416,18000
+61,Lisa Carr,Data entry,5585 James Pass-Porterton- AZ 18462,lisacarr66@gmail.com,001-457-887-2982x595,20000
+62,Nancy Evans MD,MIS ececutive,947 Micheal Spring Apt. 694-New Thomasshire- OK 30325,nancyevansmd59@gmail.com,001-509-272-8962x3091,25000
+63,Jason Gutierrez,Business manager,028 Ann Shore Suite 865-South Rhonda- MA 72102,jasongutierrez70@gmail.com,(549)973-3484x344,45000
+64,Gregory Peck,Production executive,1986 Cardenas Trail Apt. 404-West Sandraview- WA 63294,gregorypeck85@gmail.com,538.548.4219,25000
+65,Taylor Perez,Quality control,5712 Tamara Estate-Delgadofort- NJ 85768,taylorperez79@gmail.com,245.440.1938,30000
+66,Ryan Peck,Junior manager,2400 Bradley Coves Suite 478-Smallberg- PR 66589,ryanpeck30@gmail.com,543.415.2742x054,45000
+67,Margaret Sullivan,Data scientist,61227 Boyle Avenue Suite 637-Stephanieport- OR 95250,margaretsullivan12@gmail.com,001-404-853-0174,50000
+68,Tammy Barron,Project head,459 Jeffrey Dale-Hernandezstad- MT 92505,tammybarron38@gmail.com,-10297,60000
+69,Ashley Poole,Junior manager,PSC 3982- Box 2587-APO AE 89668,ashleypoole33@gmail.com,897.918.7072,45000
+70,Kristin Chambers,Business analyst,4039 Brandon Key-New Virginialand- NJ 04660,kristinchambers28@gmail.com,762-326-5676x6182,40000
+71,Joshua Rice,Operator,04786 Morrow Gateway-Reedview- ID 95531,joshuarice93@gmail.com,001-210-569-0331x19079,18000
+72,Jennifer Young,Senior engineer,84395 Young Wells-Lake Adriana- MT 39888,jenniferyoung87@gmail.com,708-892-6870x568,28000
+73,Elijah White,Project head,42708 Faulkner Point-South John- IL 43789,elijahwhite38@gmail.com,+1-317-551-8304x6990,60000
+74,Laurie Powers,Business manager,4033 Julie Throughway-Rochaborough- MO 31870,lauriepowers68@gmail.com,-10264,45000
+75,Robert Bowen,Associate data scientist,55609 Joyce Brook Suite 899-Phillipsborough- MA 30650,robertbowen45@gmail.com,(493)978-5477x7252,40000
+76,Steve Mooney,Senior engineer,USS Combs-FPO AE 88085,stevemooney91@gmail.com,9067231203,28000
+77,Mark Peck,Associate data analyst,PSC 7008- Box 8600-APO AP 95160,markpeck50@gmail.com,584-608-6211x823,30000
+78,Debra Sanders,Junior manager,9334 Desiree Walks Apt. 166-Tranton- SC 01739,debrasanders33@gmail.com,001-921-676-5918x033,45000
+79,Benjamin Frost,Junior manager,PSC 9025- Box 0392-APO AP 52706,benjaminfrost31@gmail.com,842-493-9685,45000
+80,Melissa Miller,MIS ececutive,16315 Novak Islands Apt. 477-West Angela- MS 57104,melissamiller59@gmail.com,(696)419-4311,25000
+81,Richard Moore,Junior manager,10475 Garcia Corners Apt. 678-Garcialand- MI 73143,richardmoore33@gmail.com,399-556-0466,45000
+82,Carolyn James,Data entry,7212 Hill Hills Suite 154-Lake Colleen- PA 81329,carolynjames62@gmail.com,871.724.0659,20000
+83,Jeffrey Colon,Senior engineer,5937 Thompson Locks-Kellyfort- OK 32276,jeffreycolon89@gmail.com,564-965-1939x82807,28000
+84,Sandra Jones,Associate data scientist,724 Johnny Drives Suite 617-Aguilarside- NY 91164,sandrajones45@gmail.com,(880)758-9113x52909,40000
+85,Jessica Smith,Junior manager,5679 Michael Burg-Garciachester- PW 11754,jessicasmith29@gmail.com,725-945-7387,45000
+86,Nathan Chavez,Operator,105 Erica Expressway-New Greg- GA 43884,nathanchavez98@gmail.com,-3068,18000
+87,Jeffrey Smith,MIS ececutive,191 Michael Flat Suite 147-Candicefurt- OR 15473,jeffreysmith55@gmail.com,(557)692-4991x251,25000
+88,James Thomas,Data analyst,662 Reid Square-New Garrett- LA 18889,jamesthomas18@gmail.com,(557)890-5072,40000
+89,Kathy Simpson,Data scientist,772 Ariana Underpass Apt. 404-New Keith- WI 60443,kathysimpson14@gmail.com,001-778-281-9148,50000
+90,Jessica Robinson,Data analyst,0745 Scott Crest-East Lisa- OR 90827,jessicarobinson19@gmail.com,(696)429-2330x958,40000
+91,Michael Roberts,Data entry,60422 Dustin Islands-Port Megan- MO 64655,michaelroberts65@gmail.com,(694)766-7116,20000
+92,John Perkins,Production executive,751 Robinson Meadow-South Joseph- MP 37672,johnperkins80@gmail.com,989-929-7500x17012,25000
+93,Tyler Harris,Associate data scientist,424 Diamond Glen-West Elizabethburgh- AR 52450,tylerharris47@gmail.com,+1-943-261-1037x1293,40000
+94,Greg Martinez,Data scientist,1361 Dakota Land-Derrickberg- SD 89254,gregmartinez15@gmail.com,(518)490-9275,50000
+95,Lisa Ramos,Associate data scientist,19656 Moody Gateway-Deannabury- OH 79275,lisaramos43@gmail.com,+1-294-504-3898x364,40000
+96,Brian Porter MD,Operator,5269 Diaz Springs-Port Thomas- WI 10068,brianportermd98@gmail.com,6918043006,18000
+97,James Davidson,MIS ececutive,1418 Terri Drives-Peterland- ME 92077,jamesdavidson57@gmail.com,(230)431-6179x90421,25000
+98,Carla Benton,Operator,52410 Roman Groves Apt. 491-Gibsonstad- AR 65985,carlabenton96@gmail.com,001-225-224-1913,18000
+99,Alexandria Williams,Senior engineer,08635 Robert Stravenue-Josephland- OK 49365,alexandriawilliams86@gmail.com,980-623-8061,28000
