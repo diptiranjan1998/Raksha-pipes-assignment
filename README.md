@@ -18,7 +18,7 @@
 
 
 This README file summarize the process of building data in python, creating database in MySQL and building a dashboard in Power BI for Raksha Pipes.
-# Table of Contents
+## Table of Contents
    1. [Project Overview](#Project-Overview)
    2. [Data Generation](#Data-Generation)
    3. [Database Design](#Database-Design)
@@ -61,9 +61,9 @@ All of these tasks are performed in python by taking the help of google colab. A
 
 
 
-**Step 2: Generating database in MySQL:**
+## Database Design
 
-To generate databases in MySQL, I took the help of MySQL workbench. First I created a database, then generated tables by importing the .csv files saved in the local drive. So MySQL database contains 8 tables.
+To generate database, I took the help of MySQL workbench. First I created a database, then generated tables by importing the .csv files saved in the local drive. So MySQL database contains 8 tables.
 
 **The database in MySQL contains information on:**
 
@@ -84,12 +84,17 @@ To generate databases in MySQL, I took the help of MySQL workbench. First I crea
 8. **Employee:** employee_id, employee_name, employee_position, employee_address, employee_email, employee_phone_number and employee_salary
 
 
+**MySQL Workbench Schemas**
+![Screenshot 2024-05-16 104930](https://github.com/diptiranjan1998/Raksha-pipes-assignment/assets/126856016/2183fd22-8d0b-4b25-a6b7-7a53b50761f6)
+
+
+
 To ensure data integrity I ensured the concept of primary key and foreign key in the table. Primary key identifies each row uniquely and foreign key builds relation between tables for easy analysis.
 
 
-**Step 3: Creating Dashboard in Power BI**
+## Database Design
 
-I created an interactive dashboard in power bi by using the same 8 datasets created in python. To build this dashboard, I took the help of Power BI desktop. 
+I created an interactive dashboard in Power BI by using the same 8 datasets created in python. To build this dashboard, I took the help of Power BI desktop. 
 Following steps were adhered to build the dashboard. 
 
 1. **Connect Database:** To make the analysis, we need data first. So to get the data I directly connected my Power BI desktop to MySQL database server. Now the data was ready to wrangle.
