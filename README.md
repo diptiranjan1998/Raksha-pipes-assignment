@@ -160,6 +160,7 @@ We can refresh the dashboard to update the findings if the data gets updated. Fo
       * Open Power BI desktop.
       * Go to "Get data" ➡ "More" ➡ "MySQL database" and provide database details like (server: 127.0.0.1:3306, database: raksha_pipes).
       * Load the required 8 tables from table schemas.
+      * Load this [Power BI Desktop](https://drive.google.com/file/d/1od6OQzivZ_E1OvgNWwmNBuakg9yUv3ZH/view?usp=sharing) for better visualization.
 
 ## **Thank You**
 
