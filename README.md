@@ -93,6 +93,8 @@ To generate database, I took the help of MySQL workbench. First I created a data
 
 To ensure data integrity I ensured the concept of primary key and foreign key in the table. Primary key identifies each row uniquely and foreign key builds relation between tables for easy analysis.
 
+### The link to the [MySQL Script](https://drive.google.com/file/d/18RUmAfaZFQS5pSEfOabZunZBEzIidNm1/view?usp=sharing).
+
 [Retun to Table of Contents](#Table-of-Contents)
 
 ## Dashboard Creation
