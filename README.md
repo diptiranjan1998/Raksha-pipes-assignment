@@ -113,7 +113,7 @@ Following steps were adhered to build the dashboard.
 
 5. **`Business KPIs:`** Business KPIs help an organization to get an overall idea of business. So I put following 4 different KPIs:
 
-   *`Total sales:`* This shows the total sales done by company in previous 4 months. 
+    * *`Total sales:`* This shows the total sales done by company in previous 4 months. 
 
     * *`Remaining Payments:`* This shows the amount remaining payments to be made by different customers.
 
