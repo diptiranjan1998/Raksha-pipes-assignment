@@ -24,8 +24,7 @@ This README file summarize the process of building data in python, creating data
    3. [Database Design](#Database-Design)
    4. [Dashboard Creation](#Dashboard-Creation)
    5. [Setup Instructions](#Setup-Instructions)
-   6. [Presentation](#Presentation)
-   7. [Screenshots](#Screenshots)
+   6. [Screenshots](#Screenshots)
 
 ## Project Overview
 This project is designed to create, maintain and study the fake realistic data for Raksha Pipes. To create fake data various libraries like **pandas**, **Faker**, **random** and **BeautifulSoup** of `Python` are used. To create a database `MySQL workbench` is used. To further analyze the data and create dashboard I took the help of `Power BI Desktop`.
@@ -169,6 +168,9 @@ We can refresh the dashboard to update the findings if the data gets updated. Fo
       * Load this [Power BI Desktop](https://drive.google.com/file/d/1od6OQzivZ_E1OvgNWwmNBuakg9yUv3ZH/view?usp=sharing) for better visualization.
      
 [Retun to Table of Contents](#Table-of-Contents)
+
+## Screenshots
+
 
 ## **Thank You**
 
