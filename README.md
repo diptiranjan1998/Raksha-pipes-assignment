@@ -64,6 +64,8 @@ All of these tasks are performed in python by taking the help of google colab. A
 
 ## Database Design
 
+**Generating Database in MySQL:**
+
 To generate database, I took the help of MySQL workbench. First I created a database, then generated tables by importing the .csv files saved in the local drive. So MySQL database contains 8 tables.
 
 **The database in MySQL contains information on:**
