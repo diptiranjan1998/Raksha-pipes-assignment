@@ -28,7 +28,9 @@ This README file summarize the process of building data in python, creating data
    7. [Screenshots](#Screenshots)
 
 ## Project Overview
-**Step 1: Generate Data and Design Database**
+This project is designed to create, maintain and study the fake realistic data for Raksha Pipes. To create fake data various libraries like **pandas**, **Faker** and **random** of `Python` are used. To create a database `MySQL workbench` is used. To further analyze the data and create dashboard I took the help of `Power BI Desktop`.
+
+## Data Generation
 
 **Generating Data in python:**
 
