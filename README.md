@@ -146,6 +146,12 @@ Following steps were adhered to build the dashboard.
 
 We can refresh the dashboard to update the findings if the data gets updated. For example if we add the data of further months.
 
+## Setup Instructions
+   1. `Clone the Repository:` [git clone ](https://github.com/diptiranjan1998/Raksha-pipes-assignment)
+   2. `Install Dependencies:`
+   3. `Run Data Generation Script:`
+   4. `Setup MySQL Database:`
+   5. `Open Power BI Dashboard:`
 
 ## **Thank You**
 
