@@ -58,8 +58,7 @@ It is challenging to create lot of fake data from scratch in python. So I took t
 All of these tasks are performed in python by taking the help of google colab. After creating the datasets I saved them to .CSV file for further use. I created the data of 4 months.
 ### The link to the [Python Script](https://colab.research.google.com/drive/1rMavk9mc_sv454H4lbTELPhjMJ9y66sI?usp=sharing).
 
-
-
+[Retun to Table of Contents](#Table-of-Contents)
 
 ## Database Design
 
@@ -91,6 +90,7 @@ To generate database, I took the help of MySQL workbench. First I created a data
 
 To ensure data integrity I ensured the concept of primary key and foreign key in the table. Primary key identifies each row uniquely and foreign key builds relation between tables for easy analysis.
 
+[Retun to Table of Contents](#Table-of-Contents)
 
 ## Dashboard Creation
 
@@ -146,6 +146,8 @@ Following steps were adhered to build the dashboard.
 
 We can refresh the dashboard to update the findings if the data gets updated. For example if we add the data of further months.
 
+[Retun to Table of Contents](#Table-of-Contents)
+
 ## Setup Instructions
    1. **`Clone the Repository:`** [git clone ](https://github.com/diptiranjan1998/Raksha-pipes-assignment)
    2. **`Install Dependencies:`** Necessary Python packages are `Pandas, Numpy, Faker, random and BeautifulSoup`
@@ -161,6 +163,8 @@ We can refresh the dashboard to update the findings if the data gets updated. Fo
       * Go to "Get data" ➡ "More" ➡ "MySQL database" and provide database details like (server: 127.0.0.1:3306, database: raksha_pipes).
       * Load the required 8 tables from table schemas.
       * Load this [Power BI Desktop](https://drive.google.com/file/d/1od6OQzivZ_E1OvgNWwmNBuakg9yUv3ZH/view?usp=sharing) for better visualization.
+     
+[Retun to Table of Contents](#Table-of-Contents)
 
 ## **Thank You**
 
