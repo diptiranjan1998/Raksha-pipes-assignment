@@ -171,6 +171,11 @@ We can refresh the dashboard to update the findings if the data gets updated. Fo
 
 ## Screenshots
 
+**Please direct to the link for screenshots of major steps:**
+   1. [Data generation Python](https://drive.google.com/drive/folders/1GirmEc7OSB7TCEUs2AA4ksMwv2xIJvKD?usp=sharing)
+   2. [Database design MySQL](https://drive.google.com/drive/folders/1vq8N55i7zRwNeUfrgzlTZEUmn6JRIYzb?usp=sharing)
+   3. [Dashboard creation Power BI](https://drive.google.com/drive/folders/1zC4yRBePolCbk5uvJJUMiDk7LoRDlTXM?usp=sharing)
+
 
 ## **Thank You**
 
