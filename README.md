@@ -113,37 +113,37 @@ Following steps were adhered to build the dashboard.
 
 5. **`Business KPIs:`** Business KPIs help an organization to get an overall idea of business. So I put following 4 different KPIs:
 
-    * **`Total sales:`** This shows the total sales done by company in previous 4 months. 
+   *`Total sales:`* This shows the total sales done by company in previous 4 months. 
 
-    * **`Remaining Payments:`** This shows the amount remaining payments to be made by different customers.
+    * *`Remaining Payments:`* This shows the amount remaining payments to be made by different customers.
 
-    * **`Customer base:`** This shows the total customer base the company have. This means the total customer engagement of the company from beginning.
+    * *`Customer base:`* This shows the total customer base the company have. This means the total customer engagement of the company from beginning.
 
-    * **`Total orders:`** This represents the total orders company have in previous 4 months. 
+    * *`Total orders:`* This represents the total orders company have in previous 4 months. 
 
 6. **`Build Visuals:`** Picture says thousand words. So I build different visual graphs to showcase my findings in a unique way.
 
-    * **`Pie chart:`** The pie chart showcases the total sales by each month. It shows the percentage of sales for each month out of total sales.
+    * *`Pie chart:`* The pie chart showcases the total sales by each month. It shows the percentage of sales for each month out of total sales.
 
-    * **`Tree map:`** This shows top 5 customers according to sales. These customers have highest amount of purchases form the company.
+    * *`Tree map:`* This shows top 5 customers according to sales. These customers have highest amount of purchases form the company.
 
-    * **`Stacked column chart:`** This chart showcases the total sales by product types. From this chart we conclude that PVC pipes are most selling product of company.
+    * *`Stacked column chart:`* This chart showcases the total sales by product types. From this chart we conclude that PVC pipes are most selling product of company.
 
-    * **`Forecasting Line chart:`** This line chart is the crucial visual for the company. This showcases the sales for each month and forecasts the sales for coming months as well with a 95% confidence interval.
+    * *`Forecasting Line chart:`* This line chart is the crucial visual for the company. This showcases the sales for each month and forecasts the sales for coming months as well with a 95% confidence interval.
 
 7. **`Tables:`** There are some data that are hard to interpret by visuals. So I plot different tables in my dashboard to convey my findings properly.
 
-    * **`Sales by product:`** This table visual represents the total sales by different products and the number of product sales.
+    * *`Sales by product:`* This table visual represents the total sales by different products and the number of product sales.
 
-    * **`Employee salary:`** This table visual shows the amount of money disbursed or total salary payed according to positions like Data scientist, Data analyst, etc.
+    * *`Employee salary:`* This table visual shows the amount of money disbursed or total salary payed according to positions like Data scientist, Data analyst, etc.
 
 8. **`Slicers:`** Slicers are great option to filter data and visuals properly according to user’s need. So I added following 3 different slicers:
 
-    * **`Product type:`** By using this slicer we can filter the findings according to different product types.
+    * *`Product type:`* By using this slicer we can filter the findings according to different product types.
 
-    * **`Date:`** This helps us to filter data according to date.
+    * *`Date:`* This helps us to filter data according to date.
 
-    * **`Product name:`** Withe the help of this slicer we can filter according to product.
+    * *`Product name:`* Withe the help of this slicer we can filter according to product.
 
 **Power BI Dashboard**
 ![Screenshot 2024-05-15 213303](https://github.com/diptiranjan1998/Raksha-pipes-assignment/assets/126856016/d4ea705c-09a7-4bfa-bbc6-0b6dd0bca8d8)
