@@ -99,11 +99,15 @@ Following steps were adhered to build the dashboard.
 
 1. **`Connect Database:`** To make the analysis, we need data first. So to get the data I directly connected my Power BI desktop to MySQL database server. Now the data was ready to wrangle.
 
-2. **`Data preparations:`** To make further analysis I brought the data of different variables into proper format like date column. Then converted USD to INR format for easy Interpretability. I used DAX formulas to do this operations.
+**Power BI Model View**
+![Screenshot 2024-05-16 110829](https://github.com/diptiranjan1998/Raksha-pipes-assignment/assets/126856016/1c0658df-c544-452e-8595-3cc1b32f1bcd)
 
-3. **`Creating measured:`** Created different measures like total sales, remaining payments, etc. These measures helps to build KPIs for dashboard and better analyze data.
 
-4. **`Business KPIs:`** Business KPIs help an organization to get an overall idea of business. So I put following 4 different KPIs:
+3. **`Data preparations:`** To make further analysis I brought the data of different variables into proper format like date column. Then converted USD to INR format for easy Interpretability. I used DAX formulas to do this operations.
+
+4. **`Creating measured:`** Created different measures like total sales, remaining payments, etc. These measures helps to build KPIs for dashboard and better analyze data.
+
+5. **`Business KPIs:`** Business KPIs help an organization to get an overall idea of business. So I put following 4 different KPIs:
 
     * **`Total sales:`** This shows the total sales done by company in previous 4 months. 
 
@@ -113,7 +117,7 @@ Following steps were adhered to build the dashboard.
 
     * **`Total orders:`** This represents the total orders company have in previous 4 months. 
 
-5. **`Build Visuals:`** Picture says thousand words. So I build different visual graphs to showcase my findings in a unique way.
+6. **`Build Visuals:`** Picture says thousand words. So I build different visual graphs to showcase my findings in a unique way.
 
     * **`Pie chart:`** The pie chart showcases the total sales by each month. It shows the percentage of sales for each month out of total sales.
 
@@ -123,13 +127,13 @@ Following steps were adhered to build the dashboard.
 
     * **`Forecasting Line chart:`** This line chart is the crucial visual for the company. This showcases the sales for each month and forecasts the sales for coming months as well with a 95% confidence interval.
 
-6. **`Tables:`** There are some data that are hard to interpret by visuals. So I plot different tables in my dashboard to convey my findings properly.
+7. **`Tables:`** There are some data that are hard to interpret by visuals. So I plot different tables in my dashboard to convey my findings properly.
 
     * **`Sales by product:`** This table visual represents the total sales by different products and the number of product sales.
 
     * **`Employee salary:`** This table visual shows the amount of money disbursed or total salary payed according to positions like Data scientist, Data analyst, etc.
 
-7. **`Slicers:`** Slicers are great option to filter data and visuals properly according to user’s need. So I added following 3 different slicers:
+8. **`Slicers:`** Slicers are great option to filter data and visuals properly according to user’s need. So I added following 3 different slicers:
 
     * **`Product type:`** By using this slicer we can filter the findings according to different product types.
 
