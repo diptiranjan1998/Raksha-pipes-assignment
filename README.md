@@ -56,7 +56,7 @@ It is challenging to create lot of fake data from scratch in python. So I took t
 8. **employee information:** Employees are essences of a company. So to keep track of employees I created the dataset to store data on employee id, name, email, phone number and salary provided.
 
 All of these tasks are performed in python by taking the help of google colab. After creating the datasets I saved them to .CSV file for further use. I created the data of 4 months.
-### The link to the Python script : [https://colab.research.google.com/drive/1rMavk9mc_sv454H4lbTELPhjMJ9y66sI?usp=sharing]
+### The link to the Python script : [Python Scrip](https://colab.research.google.com/drive/1rMavk9mc_sv454H4lbTELPhjMJ9y66sI?usp=sharing)
 
 
 
