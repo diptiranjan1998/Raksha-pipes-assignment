@@ -151,6 +151,8 @@ Following steps were adhered to build the dashboard.
 
 We can refresh the dashboard to update the findings if the data gets updated. For example if we add the data of further months.
 
+### The link to the [Power BI Dashboard](https://drive.google.com/file/d/1od6OQzivZ_E1OvgNWwmNBuakg9yUv3ZH/view?usp=drive_link).
+
 [Retun to Table of Contents](#Table-of-Contents)
 
 ## Setup Instructions
