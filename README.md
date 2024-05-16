@@ -28,7 +28,7 @@ This README file summarize the process of building data in python, creating data
    7. [Screenshots](#Screenshots)
 
 ## Project Overview
-This project is designed to create, maintain and study the fake realistic data for Raksha Pipes. To create fake data various libraries like **pandas**, **Faker** and **random** of `Python` are used. To create a database `MySQL workbench` is used. To further analyze the data and create dashboard I took the help of `Power BI Desktop`.
+This project is designed to create, maintain and study the fake realistic data for Raksha Pipes. To create fake data various libraries like **pandas**, **Faker**, **random** and **BeautifulSoup** of `Python` are used. To create a database `MySQL workbench` is used. To further analyze the data and create dashboard I took the help of `Power BI Desktop`.
 
 ## Data Generation
 
@@ -148,10 +148,15 @@ We can refresh the dashboard to update the findings if the data gets updated. Fo
 
 ## Setup Instructions
    1. `Clone the Repository:` [git clone ](https://github.com/diptiranjan1998/Raksha-pipes-assignment)
-   2. `Install Dependencies:`
-   3. `Run Data Generation Script:`Run this [SQL scripts](https://drive.google.com/file/d/18RUmAfaZFQS5pSEfOabZunZBEzIidNm1/view?usp=sharing) to create and populate the database.
-   4. `Setup MySQL Database:`
-   5. `Open Power BI Dashboard:`
+   2. `Install Dependencies:` Necessary Python packages are `Pandas, Numpy, Faker, random and BeautifulSoup`
+
+   **Installing Packages**
+![Screenshot 2024-05-16 115056](https://github.com/diptiranjan1998/Raksha-pipes-assignment/assets/126856016/115ac336-fd86-41ad-898b-6d0d3b73f7f9)
+
+   
+   4. `Run Data Generation Script:` [Python Data generation Script](https://colab.research.google.com/drive/1rMavk9mc_sv454H4lbTELPhjMJ9y66sI?usp=sharing)
+   5. `Setup MySQL Database:` Running this [SQL scripts](https://drive.google.com/file/d/18RUmAfaZFQS5pSEfOabZunZBEzIidNm1/view?usp=sharing) in MySQL Workbench will create and populate the database.
+   6. `Open Power BI Dashboard:`
 
 ## **Thank You**
 
