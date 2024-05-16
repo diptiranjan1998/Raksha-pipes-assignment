@@ -147,16 +147,19 @@ Following steps were adhered to build the dashboard.
 We can refresh the dashboard to update the findings if the data gets updated. For example if we add the data of further months.
 
 ## Setup Instructions
-   1. `Clone the Repository:` [git clone ](https://github.com/diptiranjan1998/Raksha-pipes-assignment)
-   2. `Install Dependencies:` Necessary Python packages are `Pandas, Numpy, Faker, random and BeautifulSoup`
+   1. **`Clone the Repository:`** [git clone ](https://github.com/diptiranjan1998/Raksha-pipes-assignment)
+   2. **`Install Dependencies:`** Necessary Python packages are `Pandas, Numpy, Faker, random and BeautifulSoup`
 
    **Installing Packages**
 ![Screenshot 2024-05-16 115056](https://github.com/diptiranjan1998/Raksha-pipes-assignment/assets/126856016/115ac336-fd86-41ad-898b-6d0d3b73f7f9)
 
    
-   4. `Run Data Generation Script:` [Python Data generation Script](https://colab.research.google.com/drive/1rMavk9mc_sv454H4lbTELPhjMJ9y66sI?usp=sharing)
-   5. `Setup MySQL Database:` Running this [SQL scripts](https://drive.google.com/file/d/18RUmAfaZFQS5pSEfOabZunZBEzIidNm1/view?usp=sharing) in MySQL Workbench will create and populate the database.
-   6. `Open Power BI Dashboard:`
+   4. **`Run Data Generation Script:`** [Python Data generation Script](https://colab.research.google.com/drive/1rMavk9mc_sv454H4lbTELPhjMJ9y66sI?usp=sharing)
+   5. **`Setup MySQL Database:`** Running this [SQL scripts](https://drive.google.com/file/d/18RUmAfaZFQS5pSEfOabZunZBEzIidNm1/view?usp=sharing) in MySQL Workbench will create and populate the database.
+   6. **`Open Power BI Dashboard:`** Instructions to link the MySQL database to Power BI and open the dashboard file:
+      * Open Power BI desktop.
+      * Go to "Get data" ➡ "More" ➡ "MySQL database" and provide database details like (server: 127.0.0.1:3306, database: raksha_pipes).
+      * Load the required 8 tables from table schemas.
 
 ## **Thank You**
 
