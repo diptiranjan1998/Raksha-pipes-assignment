@@ -19,11 +19,11 @@
 
 This README file summarize the process of building data in python, creating database in MySQL and building a dashboard in Power BI for Raksha Pipes.
 # Table of Contents
-   1. [Project Overview](#Project_Overview)
-   2. [Data Generation](#Data_Generation)
-   3. [Database Design](#Database_Design)
-   4. [Dashboard Creation](#Dashboard_Creation)
-   5. [Setup Instructions](#Setup_Instructions)
+   1. [Project Overview](#Project-Overview)
+   2. [Data Generation](#Data-Generation)
+   3. [Database Design](#Database-Design)
+   4. [Dashboard Creation](#Dashboard-Creation)
+   5. [Setup Instructions](#Setup-Instructions)
    6. [Presentation](#Presentation)
    7. [Screenshots](#Screenshots)
 
